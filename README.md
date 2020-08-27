@@ -1,5 +1,5 @@
 # Intruder Automatic Keypad Cracker
-Short program using PyAutoGUI to crack keypads in the [stealth PVP game Intruder](https://intruder.superbossgames.com), written in Python 3.8.5
+Short program using PyAutoGUI to crack keypads in the [stealth FPS Intruder](https://intruder.superbossgames.com), written in Python 3.8.5
 
 Exhaustively inputs all 4 number codes from 0000 to 9999 in order to find the correct combination to a locked keypad 
 
